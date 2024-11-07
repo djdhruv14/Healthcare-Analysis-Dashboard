@@ -6,10 +6,12 @@ Explanation: CPT codes are a set of medical codes used to describe the medical, 
 Example: A CPT code might represent a blood test, X-ray, or a surgery. By using these codes, hospitals can systematically track and bill for services.
 
 
+
 ARGE (Account Receivable Gross Expenses):
 
 Explanation: The ARGE ratio represents the relationship between the money owed to the hospital (accounts receivable) and the total expenses incurred. This ratio helps assess how efficiently a healthcare facility is collecting payments relative to its expenses.
 Example: A high ARGE ratio may indicate that a lot of money is still owed to the hospital, which could impact cash flow and operations.
+
 
 
 IPTP (Inpatient to Total Patients):
@@ -18,14 +20,17 @@ Explanation: The IPTP ratio compares the number of inpatients (patients who stay
 Example: An IPTP ratio of 85% means that 85% of all patients are inpatients. A high IPTP ratio might suggest that the hospital focuses heavily on inpatient services, which are generally more resource-intensive.
 
 
+
 FTE (Full-Time Equivalent):
 
 Explanation: FTE is a way of measuring employee workload. One FTE represents the workload of a full-time employee. If a hospital has multiple part-time staff, their hours may add up to equal one FTE.
 Example: If two part-time nurses each work 20 hours a week, together they would represent 1 FTE (since a full-time nurse might work 40 hours a week).
 Gross Expenses:
 
-Explanation: Gross expenses refer to the total expenses before any deductions or reimbursements. This includes all costs a hospital incurs to provide healthcare services, such as salaries, equipment, and facility maintenance.
+Explanation: Gross expenses refer to the total expenses before any deductions or reimbursements. 
+This includes all costs a hospital incurs to provide healthcare services, such as salaries, equipment, and facility maintenance.
 Example: Gross expenses might include the cost of an MRI machine or the salary of healthcare staff.
+
 
 
 Insurance Payment:
@@ -34,10 +39,12 @@ Explanation: Insurance payments are the amounts paid by insurance companies to c
 Example: If a patient has a surgery costing $5,000, their insurance might cover $4,000, which is recorded as an insurance payment.
 
 
+
 Patient Payment:
 
 Explanation: Patient payment refers to the amount that patients pay out of pocket, which could include co-pays, deductibles, or any portion not covered by insurance.
 Example: If the insurance only covers part of a procedure, the remaining amount that the patient pays directly is considered a patient payment.
+
 
 
 Medicare, Medicaid, and Commercial Payers:
@@ -49,11 +56,13 @@ Commercial Payers: Private health insurance companies that offer health coverage
 Example: A hospital may receive payments from Medicare for older patients, Medicaid for low-income patients, and Commercial Payers for those with private insurance.
 
 
+
 Distinct Patient:
 
 
 Explanation: This term refers to the count of unique patients who visit the hospital in a given period. If the same patient visits multiple times, they are only counted once as a distinct patient.
 Example: If 5,000 distinct patients visited the hospital in a month, this means 5,000 different individuals received care, regardless of the number of visits.
+
 
 
 CPT Units:
