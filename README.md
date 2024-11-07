@@ -73,6 +73,8 @@ Example: If a hospital has 100,000 CPT units in a month, it means they performed
 
 
 
+
+
 INSIGHTS:
 1) Specialties like Emergency Medicine and Surgery have lower FTEs (Full-Time Equivalents) despite high CPT demands. 
    This suggests a potential resource gap that could affect response times and quality of care in critical situations. 
